@@ -1,3 +1,7 @@
+
+Projeto feito no curso de FrontEnd, com intuito de aprender trabalhar com APIs
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
